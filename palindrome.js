@@ -2,7 +2,7 @@ let bag="";
     // console.log(str.length);
     for(let i=0;i<str.length;i++)
     {
-        bag=str[i]+bag;
+        bag=str[i];
     }
     
     if(bag==str)
